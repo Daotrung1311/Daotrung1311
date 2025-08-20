@@ -1,65 +1,65 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Hi, I'm Miles Dao  
 
-###
+🎓 *Data Science Student | Aspiring AI Engineer | Indie Project Builder*  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+## 🌟 About Me
+- 🔭 Currently working on **AI + RAG systems**, **Data Science projects**, and **Game AI experiments**  
+- 📚 Learning **Machine Learning, Deep Learning, and Software Engineering** step by step  
+- 🎮 Building **Flappy Bird AI with Pose Detection** and **chatbots with Supabase + LangChain**  
+- ⚡ Fun fact: I mix *data, AI, and creativity* like a chef with way too many spices  
 
-<h1 align="center">Hey there 👋</h1>
+---
 
-###
+## 🛠️ Tech Stack  
 
-<h3 align="left">👩‍💻  About Me</h3>
+### Languages & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,matlab" />
+</p>
 
-###
+### Data Science & Machine Learning  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" /> <!-- custom text-only ones for sklearn/pandas/numpy not in skillicons, so maybe leave text -->
+</p>
 
-<p align="left">👋 Hi, I'm Miles Dao from Vietnam 🇻🇳<br><br>🔭 I’m working as a Data Scientist, turning data into decisions<br><br>📚 I'm currently learning AI Engineering and exploring agentic RAG systems, pose detection, and LangChain<br><br>⚡ In my free time, I build side projects, play around with AI models, and occasionally fight bugs like a boss 🐛⚔️</p>
+### Databases & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,github" />
+</p>
 
-###
+### Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🚀 Current Projects
+- 🧠 **Agentic RAG Chatbot** – powered by Supabase + HuggingFace  
+- 📈 **NYC Taxi Trip Duration Prediction** – Kaggle ML practice  
+- 🎮 **Flappy Bird Pose Edition** – control game with MediaPipe hand tracking  
+- 🌐 **VietArcade** – indie game dev platform for the community  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daotrung1311&show_icons=true&theme=radical" alt="Miles Dao GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daotrung1311&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🌍 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com)  
+- 🐦 [Twitter](https://twitter.com)  
+- 📬 Reach me: **miles.dao@example.com**  
+
+---
+
+✨ *"Learning data, building AI, and creating cool projects one step at a time."* ✨
