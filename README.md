@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studying **Data Science & AI at USTH** <br>  
-🌱 I’m improving my skills in **Machine Learning, Deep Learning, and Software Engineering** <br>  
+🌱 I’m improving my skills in **Machine Learning, Deep Learning, and Coding** <br>  
 💬 Ask me anything — I love sharing knowledge and learning new things <br>  
 ⚡ Fun fact: I’m 19 years old and a second-year student <br>  
 
